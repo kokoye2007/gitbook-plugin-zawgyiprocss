@@ -1,0 +1,10 @@
+@import url('https://gist.githubusercontent.com/kokoye2007/6ce45c8d063f9557fb69/raw/fc1fdfc3db1e4f2714cce24b4d04dcc3f3ae962f/smartzawgyipro.css');
+
+.book-body p , .book-body h1,.book-body h2,.book-body h3,.book-body h4,.book-body h5,.book-body h6,.book-body div,.book-body span ,  .summary , .summary li , .summary li a  {
+    font-family : "Smart Zawgyi Pro";
+}
+
+
+.book .book-body .page-wrapper .page-inner section.normal code {
+font-family: Consolas, 'Liberation Mono', Menlo, Courier, "Smart Zawgyi Pro", monospace;
+}

@@ -1,0 +1,30 @@
+{
+  "name": "gitbook-plugin-zawgyiprocss",
+  "description": "Change to zawgyi pro font family",
+  "main": "index.js",
+  "version": "0.0.6",
+  "engines": {
+    "gitbook": ">=0.4.6"
+  },
+  "homepage": "https://github.com/kokoye2007/plugin-zawgyiprocss",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kokoye2007/plugin-zawgyiprocss"
+  },
+  "keywords": [
+    "gitbookio",
+    "gitbook",
+    "zawgyi",
+    "zawgyipro",
+    "smart zawgyi pro",
+    "plugin"
+  ],
+  "author": "kokoye2007",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kokoye2007/plugin-zawgyiprocss/issues"
+  }
+}
